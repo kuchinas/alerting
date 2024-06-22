@@ -1,4 +1,4 @@
-module github.com/grafana/alerting
+module github.com/kuchinas/alerting
 
 go 1.21
 
